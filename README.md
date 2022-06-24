@@ -34,4 +34,7 @@ Start the live server
   and enjoy 💫
 
 ```
+This Game was built under the guidance of 
+##Jonas Schmedtmann: 
+He is a wonderfull Teacher, Designer and a Web Developer. 
 
