@@ -35,6 +35,9 @@ Start the live server
 
 ```
 This Game was built under the guidance of 
-##Jonas Schmedtmann: 
-He is a wonderfull Teacher, Designer and a Web Developer. 
+
+
+**##Jonas Schmedtmann: **
+
+**He is a wonderfull Teacher, Designer and a Web Developer. **
 
