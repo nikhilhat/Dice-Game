@@ -34,3 +34,13 @@ Start the live server
   and enjoy 💫
 
 ```
+
+## Firebase link for the Dice Game
+
+
+
+```bash
+  https://dice100.web.app/
+```
+
+
